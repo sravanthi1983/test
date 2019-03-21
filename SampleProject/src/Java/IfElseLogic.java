@@ -8,6 +8,7 @@ public class IfElseLogic {
 		int j=20;
 		if(j>i) {
 			System.out.println("j is the big number");
+			System.out.println("***********************");
 		}
 		else {
 			System.out.println("j is the small number");
