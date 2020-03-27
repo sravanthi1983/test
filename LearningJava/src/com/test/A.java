@@ -16,6 +16,7 @@ public class A {
 		A obj2 = new A(10);
 		
 		System.out.println("hello");
+		System.out.println("world");
 	}
 
 }
